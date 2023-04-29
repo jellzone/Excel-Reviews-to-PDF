@@ -27,7 +27,7 @@ git clone https://github.com/jellzone/Excel-Reviews-to-PDF.git
 4. Edit the main.py file and replace example.xlsx with the path to your Excel file and 'Sheet1' with the name of the worksheet containing the "review" column.
 
 5. Run the script:
-python main.py
+```python main.py```
 
 The generated PDF files will be saved in the same directory as the script.
 
